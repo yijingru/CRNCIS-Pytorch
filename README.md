@@ -11,22 +11,7 @@ Please cite the article in your publications if it helps your research:
 	}
  
 # Introduction
-Neural cell instance segmentation serves as a valuable tool
-for the study of neural cell behaviors. In general, the instance
-segmentation methods compute the region of interest (ROI)
-through a detection module, where the segmentation is sub-
-sequently performed. To precisely segment the neural cells,
-especially their tiny and slender structures, existing work em-
-ploys a u-net structure to preserve the low-level details and
-encode the high-level semantics. However, such method is
-insufficient for differentiating the adjacent cells when large
-parts of them are included in the same cropped ROI. To
-solve this problem, we propose a context-refined neural cell
-instance segmentation model that learns to suppress the back-
-ground information. In particular, we employ a light-weight
-context refinement module to recalibrate the deep features
-and focus the model exclusively on the target cell within each
-cropped ROI. The proposed model is efficient and accurate, and experimental results demonstrate its superiority compared to the state-of-the-arts.
+Neural cell instance segmentation serves as a valuable tool for the study of neural cell behaviors. In general, the instance segmentation methods compute the region of interest (ROI) through a detection module, where the segmentation is subsequently performed. To precisely segment the neural cells, especially their tiny and slender structures, existing work employs a u-net structure to preserve the low-level details and encode the high-level semantics. However, such method is insufficient for differentiating the adjacent cells when large parts of them are included in the same cropped ROI. To solve this problem, we propose a context-refined neural cell instance segmentation model that learns to suppress the background information. In particular, we employ a light-weight context refinement module to recalibrate the deep features and focus the model exclusively on the target cell within each cropped ROI. The proposed model is efficient and accurate, and experimental results demonstrate its superiority compared to the state-of-the-arts.
 
 <p align="center">
 	<img src="imgs/pic1.png", width="800">
