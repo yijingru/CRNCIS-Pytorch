@@ -9,8 +9,8 @@ Please cite the article in your publications if it helps your research:
 		booktitle = "ISBI",
 		year = "2019",
 	}
-
-#Introduction
+ 
+# Introduction
 Neural cell instance segmentation serves as a valuable tool
 for the study of neural cell behaviors. In general, the instance
 segmentation methods compute the region of interest (ROI)
