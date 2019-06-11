@@ -26,9 +26,7 @@ instance segmentation model that learns to suppress the back-
 ground information. In particular, we employ a light-weight
 context refinement module to recalibrate the deep features
 and focus the model exclusively on the target cell within each
-cropped ROI. The proposed model is efficient and accurate,
-and experimental results demonstrate its superiority com-
-pared to the state-of-the-arts.
+cropped ROI. The proposed model is efficient and accurate, and experimental results demonstrate its superiority compared to the state-of-the-arts.
 
 <p align="center">
 	<img src="imgs/pic1.png", width="800">
