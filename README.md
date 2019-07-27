@@ -3,11 +3,13 @@ Context-refined neural cell instance segmentation,  [Paper Link](https://ieeexpl
 
 Please cite the article in your publications if it helps your research:
 
-	@inproceedings{YI2019MICCAI,
-		author = "Jingru Yi and Pengxiang Wu and Qiaoying Huang and Hui Qu and Daniel J. Hoeppner and Dimitris N. Metaxas"
-		title = "Context-refined neural cell instance segmentation",
-		booktitle = "ISBI",
-		year = "2019",
+	@inproceedings{yi2019context,
+	  title={Context-Refined Neural Cell Instance Segmentation},
+	  author={Yi, Jingru and Wu, Pengxiang and Huang, Qiaoying and Qu, Hui and Hoeppner, Daniel J and Metaxas, Dimitris N},
+	  booktitle={2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)},
+	  pages={1028--1032},
+	  year={2019},
+	  organization={IEEE}
 	}
  
 # Introduction
